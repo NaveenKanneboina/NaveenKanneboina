@@ -1,4 +1,4 @@
-### Hello world..! 👋, I'm Naveen Nani 
+### <h1 align="center">Hello world..! 👋, I'm Naveen Nani </h1>
 
   - 🔭 I’m currently working on <b>React Framework</b>
   - 🌱 I’m currently learning <b>JavaScript</b>
