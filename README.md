@@ -14,9 +14,9 @@
   
   ### <h3> Active In</h3>
   <div align="center">
-    <a href="https://www.instagram.com/naveen_nani1303/?hl=en" ><img src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-social-media-icons-set-network-background-share-like-comment-vector-png-image_3548010.jpg" alt="" height=50 width=50/></a>
-    <a href="https://www.linkedin.com/in/kanneboina-naveen-kumar-48652b190/"><img src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-social-media-icons-set-network-background-share-like-comment-vector-png-image_3548010.jpg" alt="" height=30 width=30/></a>
-  <a href="https://twitter.com/NaveenNani1303" ><img src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-social-media-icons-set-network-background-share-like-comment-vector-png-image_3548010.jpg" alt="" height=50 width=50/></a>
+    <a href="https://www.instagram.com/naveen_nani1303/?hl=en" ><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="" height=50 width=50/></a>
+    <a href="https://www.linkedin.com/in/kanneboina-naveen-kumar-48652b190/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="" height=30 width=30/></a>
+  <a href="https://twitter.com/NaveenNani1303" ><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" alt="" height=50 width=50/></a>
   </div>
   
 
