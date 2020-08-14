@@ -4,7 +4,7 @@
   - 🌱 I’m currently learning <b>JavaScript</b>
   - 📫 How to reach me <b>naveenkanneboina1303@gmail.com</b> 
   
-  ### <h3 > Technologies good at :</h3>
+  ### <h3 > Technologies good at :</h3><hr>
   <div align="center">
     <img        src="https://camo.githubusercontent.com/9599dc988280bea2ca5c44c4796f13494f9ff3f7/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" widht=50 height=50/>
   <img src="https://camo.githubusercontent.com/5712bffd0347cc2744de599dc54473dc1ebbfe82/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS" widht=50 height=50/>
