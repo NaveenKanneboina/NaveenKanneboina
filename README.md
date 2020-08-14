@@ -1,8 +1,12 @@
-### <h1 style="color:red">Hello world..! 👋, I'm Naveen Nani</h1> 
+### Hello world..! 👋, I'm Naveen Nani 
 
   - 🔭 I’m currently working on <b>React Framework</b>
   - 🌱 I’m currently learning <b>JavaScript</b>
   - 📫 How to reach me <b>naveenkanneboina1303@gmail.com</b> 
+  
+ ### Good At:
+ 
+ ![svg](https://sourcerer.io/icons/logo-sharing.svg)
 
 
 <!--
