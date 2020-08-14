@@ -14,7 +14,7 @@
   
   ### <h3> Active In</h3>
   <div>
-    <a href="https://www.linkedin.com/in/kanneboina-naveen-kumar-48652b190/"><img src="https://camo.githubusercontent.com/609be48e654a9c8aed1660c2596b04f09ed13aee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt=""/></a>
+    <a href="https://www.linkedin.com/in/kanneboina-naveen-kumar-48652b190/"><img src="https://camo.githubusercontent.com/609be48e654a9c8aed1660c2596b04f09ed13aee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="" height=30 width=30/></a>
   </div>
   
 
