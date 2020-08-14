@@ -14,7 +14,7 @@
   
   ### <h3> Active In</h3>
   <div>
-    <a href="https://www.linkedin.com/in/kanneboina-naveen-kumar-48652b190/"><img src="blob:https://fontawesome.com/78857a84-a4dc-4e00-8a4b-3864ebb4b055" alt=""/></a>
+    <a href="https://www.linkedin.com/in/kanneboina-naveen-kumar-48652b190/"><img src="https://fontawesome.com/78857a84-a4dc-4e00-8a4b-3864ebb4b055" alt=""/></a>
   </div>
   
 
