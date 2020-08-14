@@ -1,4 +1,4 @@
-### <h1 align="center">Hello world..! 👋, I'm Naveen Nani </h1>
+### <h1 align="center">Hello world..! 👋, I'm Naveen Nani </h1><hr>
 
   - 🔭 I’m currently working on <b>React Framework</b>
   - 🌱 I’m currently learning <b>JavaScript</b>
@@ -10,6 +10,11 @@
   <img src="https://camo.githubusercontent.com/5712bffd0347cc2744de599dc54473dc1ebbfe82/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS" widht=50 height=50 margin=50/>
   <img src="https://camo.githubusercontent.com/14758df13e2b9c312a5b911d3bb8b7418f7a8c3c/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" widht=50 height=50 margin=5/>
   <img  src="https://camo.githubusercontent.com/4683d18a4a9f845dd7de377a6915dcfc9739a661/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="react" width=50 height=50 margin=5/>
+  </div>
+  
+  ### <h3> Active In</h3>
+  <div>
+    <a href="https://www.linkedin.com/in/kanneboina-naveen-kumar-48652b190/"><img src="blob:https://fontawesome.com/78857a84-a4dc-4e00-8a4b-3864ebb4b055"/></a>
   </div>
   
 
