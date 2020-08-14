@@ -14,9 +14,9 @@
   
   ### <h3> Active In</h3>
   <div align="center">
-    <a href="https://www.instagram.com/naveen_nani1303/?hl=en" ><img src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" alt="" height=30 width=30/></a>
+    <a href="https://www.instagram.com/naveen_nani1303/?hl=en" ><img src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" alt="" height=50 width=50/></a>
     <a href="https://www.linkedin.com/in/kanneboina-naveen-kumar-48652b190/"><img src="https://camo.githubusercontent.com/609be48e654a9c8aed1660c2596b04f09ed13aee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="" height=30 width=30/></a>
-  <a href="https://twitter.com/NaveenNani1303" ><img src="https://camo.githubusercontent.com/980f413492d9dd5110062cfe16bb3e616f4a03ba/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="" height=50 width=50/></a>
+  <a href="https://twitter.com/NaveenNani1303" ><img src="https://camo.githubusercontent.com/980f413492d9dd5110062cfe16bb3e616f4a03ba/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="" height=30 width=30/></a>
   </div>
   
 
