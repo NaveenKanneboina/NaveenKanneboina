@@ -1,4 +1,4 @@
-### < style= alignitem: center>Hi there 👋, I'm Naveen Nani</> 
+### <h1>Hi there 👋, I'm Naveen Nani</h1> 
 
   - 🔭 I’m currently working on <h1>React Framework</h1>
   - 🌱 I’m currently learning JavaScript
