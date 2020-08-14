@@ -1,8 +1,8 @@
-### <h1>Hi there 👋, I'm Naveen Nani</h1> 
+### <h1 style="align-item:center">Hi there 👋, I'm Naveen Nani</h1> 
 
   - 🔭 I’m currently working on <b>React Framework</b>
-  - 🌱 I’m currently learning JavaScript
-  - 📫 How to reach me: naveenkanneboina1303@gmail.com 
+  - 🌱 I’m currently learning <b>JavaScript</b>
+  - 📫 How to reach me <b>naveenkanneboina1303@gmail.com</b> 
 
 
 <!--
