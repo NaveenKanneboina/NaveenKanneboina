@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Naveen Nani
 
-             - 🔭 I’m currently working on React Framework
-             - 🌱 I’m currently learning JavaScript
-             - 📫 How to reach me: naveenkanneboina1303@gmail.com 
+  - 🔭 I’m currently working on React Framework
+  - 🌱 I’m currently learning JavaScript
+  - 📫 How to reach me: naveenkanneboina1303@gmail.com 
 
 
 <!--
