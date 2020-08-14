@@ -1,4 +1,4 @@
-### <h1 style="color: aqua;">Hi there 👋, I'm Naveen Nani</h1> 
+### <h1 style="align-items: center;">Hi there 👋, I'm Naveen Nani</h1> 
 
   - 🔭 I’m currently working on <b>React Framework</b>
   - 🌱 I’m currently learning <b>JavaScript</b>
