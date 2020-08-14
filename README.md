@@ -1,5 +1,5 @@
 ### <h1 align="center">Hello world..! 👋, I'm Naveen Nani </h1>
-<p>Do what you want to do.... until you want to do....!</p>
+<b align="center">Do what you want to do.... until you want to do....!</b>
 <hr>
 
   - 🔭 I’m currently working on <b>React Framework</b>
