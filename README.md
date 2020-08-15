@@ -15,7 +15,7 @@
   </div>
   
   ### <h3> Connect with me:</h3>
-  <div align="center">
+  <div >
     <a href="https://www.instagram.com/naveen_nani1303/?hl=en" ><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="" height=40 width=40/></a>
     <a href="https://www.linkedin.com/in/kanneboina-naveen-kumar-48652b190/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="" height=40 width=40/></a>
   <a href="https://twitter.com/NaveenNani1303" ><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" alt="" height=40 width=40/></a>
