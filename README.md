@@ -2,7 +2,7 @@
 <h3 align="center">Do what you want to do.... until you want to do....!</h3>
 <hr>
 
-  - 🔭 I’m currently working on <b>React FrameWork</b>
+  - 🔭 I’m currently working on <b>ReactNative FrameWork</b>
   - 🌱 I’m currently learning <b>JavaScript</b>
   - 📫 How to reach me <b>naveenkanneboina1303@gmail.com</b> 
   
