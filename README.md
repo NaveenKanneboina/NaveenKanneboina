@@ -25,6 +25,9 @@
   <a href="https://twitter.com/NaveenNani1303" ><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" alt="" height=40 width=40/></a>
   </div>
   
+---
+<img align="left" alt="Naveen Nani" src="https://github-readme-stats.vercel.app/api?username=NaveenKanneboina&show_icons=true&hide_border=true" />
+  
 
 
 <!--
