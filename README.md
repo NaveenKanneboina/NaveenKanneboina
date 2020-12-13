@@ -26,6 +26,7 @@
   </div>
   
 ---
+### <h3> Stats:</h3>
 <img align="left" alt="Naveen Nani" src="https://github-readme-stats.vercel.app/api?username=NaveenKanneboina&show_icons=true&hide_border=true&theme=dark" />
   
 
