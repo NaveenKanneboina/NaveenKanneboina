@@ -17,7 +17,9 @@
     <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"  alt="VS Code" width=50 height=50/>
 <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"  alt="Bootstrap" width=50 height=50/>
   <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png"  alt="Material Ui" width=50 height=50/>
+  <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"  alt="Redux" width=50 height=50/>  
   <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"  alt="Next js" width=50 height=50/>  
+  
   </div>
   
   ### <h3> Connect with me:</h3>
