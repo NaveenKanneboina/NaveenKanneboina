@@ -9,7 +9,7 @@
   ### <h3 > Languages and Tools:</h3><hr>
   <div align="center">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="HTML5" widht=50 height=50 margin=50/>
-  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS" widht=50 height=70 margin=50/>
+  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS" widht=50 height=60 margin=50/>
   <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="JavaScript" widht=50 height=50 margin=5/>
   <img  src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width=50 height=50 margin=5/>
   <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="Firebase" width=50 height=50/>
