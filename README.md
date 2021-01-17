@@ -2,8 +2,8 @@
 <h3 align="center">Do what you want to do.... until you want to do....!</h3>
 <hr>
 
-  - 🔭 I’m currently working on <b>ReactNative</b>
-  - 🌱 I’m currently learning <b>JavaScript</b>
+  - 🔭 I’m currently working on <b>React Js</b>
+  - 🌱 I’m currently learning <b>Next Js</b>
   - 📫 How to reach me <b>naveenkanneboina1303@gmail.com</b> 
   
   ### <h3 > Languages and Tools:</h3><hr>
