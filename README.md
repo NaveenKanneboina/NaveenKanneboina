@@ -9,7 +9,7 @@
   ### <h3 > Languages and Tools:</h3><hr>
   <div align="center">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="HTML5" widht=50 height=50 margin=50/>
-  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS" widht=50 height=50 margin=50/>
+  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS" widht=50 height=70 margin=50/>
   <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="JavaScript" widht=50 height=50 margin=5/>
   <img  src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width=50 height=50 margin=5/>
   <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="Firebase" width=50 height=50/>
@@ -17,6 +17,7 @@
     <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"  alt="VS Code" width=50 height=50/>
 <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"  alt="Bootstrap" width=50 height=50/>
   <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png"  alt="Material Ui" width=50 height=50/>
+  <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"  alt="Next js" width=50 height=50/>  
   </div>
   
   ### <h3> Connect with me:</h3>
